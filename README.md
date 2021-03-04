@@ -1,6 +1,6 @@
-# Yazılım-Mühendisliği-IT511-2021
+# Yazılım-Mühendisliği-IT522-2021
 
-Yazılım Mühendisliği Dersinin Deposu - IT511 - 2021 - Toros Üniversitesi
+Yazılım Mühendisliği Dersinin Deposu - IT522 - 2021 - Toros Üniversitesi
 
 Her türlü soru ve cevap için dersin Discord kanalı : https://discord.gg/6Mrb8MwteQ
 
